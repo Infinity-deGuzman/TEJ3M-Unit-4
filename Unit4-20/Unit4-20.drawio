@@ -113,6 +113,9 @@
                 <mxCell id="32" value="Infinity de Guzman - TEJ3M - Unit 4-20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="352" y="290" width="240" height="20" as="geometry"/>
                 </mxCell>
+                <mxCell id="33" value="2-bit Full Adder/Subtractor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="260" width="160" height="20" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
